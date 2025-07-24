@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Connect with me:
-- 🔗 [LinkedIn](https://linkedin.com/in/unique_rudra)
+- 🔗 [LinkedIn](https://linkedin.com/in/uniquerudra)
 - 🐙 [GitHub](https://github.com/Uniquerudra)
 - 📸 [Instagram](https://www.instagram.com/unique_rudra/)
 
