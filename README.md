@@ -2,7 +2,7 @@
 
 ### A Self-Taught Front-End Developer
 
-🚀 I’m currently focused on learning and building real-world full stack projects using ***.
+🚀 I’m currently focused on learning and building real-world project using **React.js.
 
 💡 Recently built a **To-Do List** — check it out!
 
