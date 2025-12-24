@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uniquerudra" alt="uniquerudra" /></a> </p>
 
 - 🌱 I’m currently learning **Backend part of development**
+- Web Developer | React | JavaScript | Open Source Enthusiast
 
 - 📫 How to reach me **rudrapal9b38@gmail.com**
 
